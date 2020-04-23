@@ -56,7 +56,7 @@ hr{
   font-weight: bold;
 }
 #chicken p, #beef p, #sushi p{
-  font-family: "Comic Sans MS"
+  font-family: "Comic Sans MS";
  
 }
 #chicken, #beef, #sushi{
