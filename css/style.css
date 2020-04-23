@@ -35,6 +35,11 @@ hr{
   text-align: center;
   color: black;
 }
+#header-nav .navbar-brand {
+    position: absolute;
+    left: 10px;
+    
+}
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 1px solid black;
 }
